@@ -9,3 +9,6 @@ In this article I talk about how to use Pandas to get tabular data directly from
 
 ### [Introduction to SQL using FPL data](https://towardsdatascience.com/an-introduction-to-sql-using-fpl-data-8314ec982308)
 In this article I demonstrate the basics of SQL using Fantasy Premier League data. The queries run in the article can be found in the queries file. 
+
+### [Using Requests with Python to Get Data from the FPL API](https://python.plainenglish.io/using-requests-with-python-to-get-data-from-the-fpl-api-4cb72f03a5d4)
+In this article I demonstrate some of the basics of using the Requests library to interact with an API, including handling errors and JSON content. 
