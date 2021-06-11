@@ -15,3 +15,6 @@ In this article I demonstrate some of the basics of using the Requests library t
 
 ### [Getting and analysing chess data with Python](https://python.plainenglish.io/getting-and-analysing-chess-game-data-with-python-71c97494a5f4)
 In this article I go over the steps I took to get my chess game data from the chess.com API and process it using python-chess and pandas for analysis.
+
+### [Saving XML content to a pandas DataFrame using xmltodict](https://python.plainenglish.io/saving-xml-content-to-a-pandas-dataframe-using-xmltodict-b6fab32a5100)
+In this article, I get three days’ weather forecast data from the Met Éireann API and save it to a pandas DataFrame.
